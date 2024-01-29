@@ -1,0 +1,40 @@
+.test {
+  font-size: 18px;
+}
+
+body {
+    margin: 0px;
+}
+
+td{
+  border: 5px solid black;
+}
+
+#container {
+  position: absolute;
+
+  top:0;
+  right: -235px;
+  max-height: 350px;
+  overflow-y: scroll;
+  
+}
+
+#container2{
+  position: absolute;
+  right: -205px;
+  top:0;
+}
+
+#container3 {
+  position: absolute;
+  right: -205px;
+  top:0;
+  background-color: white;
+  
+}
+
+table {
+  background-color: white;  
+  border-collapse: collapse;
+}
